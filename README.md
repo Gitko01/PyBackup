@@ -6,8 +6,8 @@ I originally made this app because I didn't want to pay for a backup app,
 and I felt it would be an interesting first public app to make.
 
 ## Download
-You can either download it from my [website](https://gitko01.github.io/website), the releases section of this repo,  
-or you can just download the source code and install the dependencies yourself.  
+You can either download it from my [website](https://gitko01.github.io/website), the [releases](https://github.com/Gitko01/PyBackup/releases) section of this repo,  
+or you can just download the [source code](https://github.com/Gitko01/PyBackup/archive/refs/heads/main.zip) and install the dependencies yourself.  
 I suggest the releases section of this repo or the website.
 
 ## Warning
