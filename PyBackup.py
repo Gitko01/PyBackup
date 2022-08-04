@@ -1,4 +1,4 @@
-+from calendar import isleap, leapdays, month
+from calendar import isleap, leapdays, month
 from operator import indexOf
 from tkinter import CENTER, filedialog as fd
 from tkinter import ttk
